@@ -1,45 +1,40 @@
-# 👋 Hola! Sóc Alexandro Ortega
+# Hola! Sóc [El teu Nom]
 
 Benvingut al meu perfil de GitHub.  
-Sóc una persona apassionada per la tecnologia i l'aprenentatge constant.
+M’apassiona la tecnologia i aprendre coses noves constantment.
 
 ---
 
-## 🚀 Sobre mi
-- 💻 M'interessa el desenvolupament de programari i la programació.
-- 📚 Sempre estic aprenent coses noves.
-- 🤝 M'agrada col·laborar en projectes i millorar les meves habilitats.
-- 🎯 Objectiu actual: créixer com a desenvolupador i crear projectes útils.
+## Sobre mi
+M’interessa el desenvolupament de programari i la programació.  
+Sempre busco oportunitats per col·laborar en projectes i millorar les meves habilitats.  
+Actualment, el meu objectiu és créixer com a desenvolupador i crear projectes útils i interessants.
 
 ---
 
-## 🛠️ Tecnologies i eines
-Aquestes són algunes de les tecnologies que utilitzo o estic aprenent:
+## Tecnologies i eines
+Algunes de les tecnologies amb les que treballo o que estic aprenent són:
 
-- HTML | CSS | JavaScript  
+- HTML, CSS, JavaScript  
 - Python  
-- Git & GitHub  
+- Git i GitHub  
 - (Afegeix aquí les que utilitzis tu)
 
 ---
 
-## 📂 Projectes destacats
-- 🔧 *Projecte 1*: Descripció breu.  
-- 📱 *Projecte 2*: Descripció breu.  
-- 🌐 *Projecte 3*: Descripció breu.  
+## Projectes destacats
+- Projecte 1: Breu descripció del projecte.  
+- Projecte 2: Breu descripció del projecte.  
+- Projecte 3: Breu descripció del projecte.  
 
-*(Pots actualitzar aquesta secció conforme creïs nous projectes)*
-
----
-
-## 📫 Contacte
-- ✉️ Correu electrònic: aortega034@boscdelacoma.cat  
-- 🌐 LinkedIn / Xarxes (opcional)
+(Pots actualitzar aquesta secció conforme creïs nous projectes)
 
 ---
 
-⭐ **Gràcies per visitar el meu perfil**  
-No dubtis a mirar els meus repositoris i seguir-me si t'interessa el meu treball!
+## Com contactar-me
+- Correu electrònic: teu-correu@example.com  
+- Link
+
 
 <!--
 **aortega034/aortega034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
