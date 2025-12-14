@@ -1,7 +1,7 @@
-# Hola! Sóc [El teu Nom]
+# Hola! Em dic Alexandro Ortega
 
 Benvingut al meu perfil de GitHub.  
-M’apassiona la tecnologia i aprendre coses noves constantment.
+Soc estudiant d'ASIX al Bosc de la Coma
 
 ---
 
