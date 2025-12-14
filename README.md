@@ -6,34 +6,33 @@ Soc estudiant d'ASIX al Bosc de la Coma
 ---
 
 ## Sobre mi
-M’interessa el desenvolupament de programari i la programació.  
-Sempre busco oportunitats per col·laborar en projectes i millorar les meves habilitats.  
-Actualment, el meu objectiu és créixer com a desenvolupador i crear projectes útils i interessants.
+Tinc 19 anys, soc un jove apassionat per el mon de la informatica
+Vaig fer el cicle de grau mitja d'SMX a Banyoles i durant 6 mesos practicas a una empresa
+Acutalment estic cursant 1r d'ASIX a institut Bosc de la Coma a Olot
 
 ---
 
 ## Tecnologies i eines
 Algunes de les tecnologies amb les que treballo o que estic aprenent són:
 
-- HTML, CSS, JavaScript  
+- HTML, CSS 
 - Python  
-- Git i GitHub  
-- (Afegeix aquí les que utilitzis tu)
+- C#
+- Linux  
+- PHP
+- SQL
 
 ---
 
 ## Projectes destacats
-- Projecte 1: Breu descripció del projecte.  
-- Projecte 2: Breu descripció del projecte.  
-- Projecte 3: Breu descripció del projecte.  
+- Projecte 1: Sistema de regatge automatic per arduino amb control remot
 
 (Pots actualitzar aquesta secció conforme creïs nous projectes)
 
 ---
 
 ## Com contactar-me
-- Correu electrònic: teu-correu@example.com  
-- Link
+- Correu electrònic: aortega034@boscdelacoma.cat 
 
 
 <!--
