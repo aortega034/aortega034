@@ -33,8 +33,6 @@ Algunes de les tecnologies amb les quals treballo o que estic aprenent són:
 
 * **Projecte 1:** Sistema de regatge automàtic per a Arduino amb control remot.
 
-*(Pots actualitzar aquesta secció a mesura que creïs nous projectes)*
-
 ---
 
 ## Com contactar amb mi
